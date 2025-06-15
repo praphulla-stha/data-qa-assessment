@@ -31,7 +31,7 @@ This repository contains my deliverables for the Junior Data QA Analyst assessme
 - **Description**: Visualizes data quality issues (missing values, uneven distributions, duplicates) using styled tables and Plotly charts, with a navigation bar for easy access.
 - **View Report**:
   - Open `Task 3/visualization.html` in a browser (e.g., Chrome) to view the report.
-  - Alternatively, visit [GitHub Pages link](https://YourUsername.github.io/data-qa-assessment/Task%203/visualization.html) for an online view.
+  - Alternatively, visit [GitHub Pages link](https://praphulla-stha.github.io/data-qa-assessment/Task%203/visualization.html) for an online view.
 - **Run Instructions**:
   1. Open `Task 3.ipynb` in Google Colab.
   2. Place `dataset.csv` in the same directory.
