@@ -1,6 +1,6 @@
-# Junior Data QA Analyst Assessment Submission
+# Grepsr - Junior Data QA Analyst Assessment Submission
 
-This repository contains my deliverables for the Junior Data QA Analyst assessment, consisting of three tasks. Below is an overview of each task, file descriptions, and instructions for running and viewing the outputs.
+This repository contains my deliverables for the Grepsr - Junior Data QA Analyst assessment, consisting of three tasks. Below is an overview of each task, file descriptions, and instructions for running and viewing the outputs.
 
 ## Task 1: Data Cleaning
 - **Files**:
